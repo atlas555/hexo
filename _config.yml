@@ -5,14 +5,14 @@
 # Site
 title: Bfstack
 subtitle: Code Will Change The World
-description:
+description: focus on search,recommend,deep learning!!!
 author: Atlas
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://bfstack.zhangxiaolong.org
+url: http://www.zhangxiaolong.org
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -89,12 +89,6 @@ deploy:
 #  repo: https://github.com/atlas555/hexo-blog.git
   repo: atlas@123.56.93.121:/home/atlas/hexo/blog.git
   branch: master
-
-# hexo-admin authentification
-admin:
-   username: atlas
-   password_hash: $2a$10$LTVgd7wignGET1g08T9p8usJb6zetWz4VR96ZzJN79.Kgkq8j/l8q
-   secret: abcdefghijklmnopqrstuvwxyz1234567890
 
 metadata:
   author_id: Atlas

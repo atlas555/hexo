@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /css/image
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+Sitemap: http://www.zhangxiaolong.org/sitemap.xml
+Sitemap: http://www.zhangxiaolong.org/baidusitemap.xml
