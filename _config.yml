@@ -86,7 +86,8 @@ archive_generator:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/atlas555/hexo-blog.git
+#  repo: https://github.com/atlas555/hexo-blog.git
+  repo: atlas@123.56.93.121:/home/atlas/hexo/blog.git
   branch: master
 
 # hexo-admin authentification
