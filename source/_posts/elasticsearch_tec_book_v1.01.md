@@ -8,11 +8,10 @@ categories:
   - search
 date: 2017-09-26 10:47:00
 english_title: elasticsearch_tec_book
+toc: true
 ---
 
 # elasticsearch技术手册 v1.01
-
-[toc]
 
 ## 1. 基础
 本手册内容是基于`elasticsearch5+`版本。准确的说是5.0.1版本。
