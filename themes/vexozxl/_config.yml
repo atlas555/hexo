@@ -1,6 +1,6 @@
 author: Atlas # 作者
-description: Code will change the world, and focus on search,recommend,deep learning.
-keyword: resys, search, machine learning, deep learning
+description: Coding 可以改变世界！(Code Will Change The World!!!)
+# keyword: 机器学习,machine learning,sklearn,深度学习,deep learning,搜索,search,lucene,推荐,resys
 favicon: 
 
 excerpt_link: Read more
@@ -33,3 +33,5 @@ about:
   banner: http://file.muyutech.com/about.jpg
   avatar: http://tva4.sinaimg.cn/crop.31.753.1838.1838.180/b7ba225djw1esoizj5nguj21kw23uu0x.jpg
   description: 我们所处的时代是最坏还是最好？！
+  weibo_username: atlas2013
+  github_username: atlas555

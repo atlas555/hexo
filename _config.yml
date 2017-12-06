@@ -4,8 +4,9 @@
 
 # Site
 title: Bfstack
-subtitle: Code Will Change The World
-description: focus on search,recommend,deep learning!!!
+subtitle: Coding 可以改变世界！(Coding Will Change The World!!!)
+description: Bfstack是个人技术网站，致力于前后端技术。目前博主主要集中于机器学习、深度学习、搜索、推荐技术;Coding Will Change The World, do not stop!!!
+keyword: 机器学习,machine learning,sklearn,深度学习,deep learning,搜索,search,lucene,推荐,resys
 author: Atlas
 language:
 timezone:
