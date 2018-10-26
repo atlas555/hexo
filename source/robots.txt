@@ -6,4 +6,4 @@ Allow: /css/image
 #Disallow: /css/
 Disallow: /fonts/
 
-Sitemap: http://www.zhangxiaolong.org/sitemap.xml
+Sitemap: http://www.bfstack.com/sitemap.xml

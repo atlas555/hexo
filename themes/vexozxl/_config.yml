@@ -22,11 +22,13 @@ changyan:
 highlight:
   tomorrow
 
-baidu_id: efdd0c828838577f503bb4e248582382
+baidu_id: 8cf3d14594ef9b9b80e569f1989d8309
 
 about: 
-  banner: http://file.muyutech.com/about.jpg
+  banner: http://image.bfstack.com/mweb/about.jpg
   avatar: http://tva4.sinaimg.cn/crop.31.753.1838.1838.180/b7ba225djw1esoizj5nguj21kw23uu0x.jpg
   description: 我们所处的时代是最坏还是最好？！
-  weibo_username: atlas2013
-  github_username: atlas555
+
+config:
+    weibo_username: atlas2013
+    github_username: atlas555

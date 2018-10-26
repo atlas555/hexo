@@ -1,6 +1,6 @@
 <footer class="app-footer">
   <p class="copyright">
-    &copy; <%= new Date().getFullYear() %> | Proudly powered by <a href="https://hexo.io" target="_blank" rel="external nofollow">Hexo</a>
+  &copy; <%= new Date().getFullYear() %> <a herf="http://www.miitbeian.gov.cn/" target="_blank" rel="external nofollow">京ICP备18003045号</a> | Powered by <a href="https://hexo.io" target="_blank" rel="external nofollow">Hexo</a>
     | Theme by <a href="https://github.com/yanm1ng" rel="external nofollow">yanm1ng</a> | 访问总人数:<span id="busuanzi_value_site_uv"></span>
   </p>
 </footer>
@@ -55,4 +55,28 @@
 <!-- count uv -->
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-43475675-8"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+	  gtag('config', 'UA-43475675-8');
+</script>
+
 <%- js('js/script') %>
